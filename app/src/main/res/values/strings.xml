@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">DaggerHiltPracticeApp</string>
+    <string name="MyTestResourceString">this is test string from resources</string>
+
 </resources>
